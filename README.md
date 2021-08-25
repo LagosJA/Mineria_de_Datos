@@ -6,3 +6,5 @@
 [Mapa Mental I](https://github.com/LagosJA/Mineria_de_Datos/blob/main/MapaMental_1_1941592.pdf)
 
 [Equipo 1-Ejercicio Base de Datos](https://github.com/CesarDominguez27/Mineria_de_datos/blob/main/Equipo_1-Ejercicio%20base%20de%20datos.pdf)
+
+[Ejercicios Python](https://github.com/LagosJA/Mineria_de_Datos/blob/main/Ej_Python_1941592.ipynb)
