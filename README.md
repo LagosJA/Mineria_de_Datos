@@ -20,4 +20,4 @@
 
 [Visualización Equipo 1](https://github.com/LagosJA/Mineria_de_Datos/blob/main/Visualizacion_Equipo1.ipynb)
 
-[Segundo Avance PIA]
+[Segundo Avance PIA](https://github.com/LagosJA/Mineria_de_Datos/blob/main/Avance_II_PIA_Equipo1.ipynb)
