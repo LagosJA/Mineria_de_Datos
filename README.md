@@ -17,3 +17,5 @@
 [Presentación Regresión Lineal - Equipo 1](https://github.com/CesarDominguez27/Mineria_de_datos/blob/main/Presentaci%C3%B3n_Regresi%C3%B3n%20Lineal_N.01.pdf)
 
 [Notebook Regresión Lineal](https://github.com/LagosJA/Mineria_de_Datos/blob/main/Regresion_Lineal_Equipo1.ipynb)
+
+[Visualización Equipo 1](https://github.com/LagosJA/Mineria_de_Datos/blob/main/Visualizacion_Equipo1.ipynb)
