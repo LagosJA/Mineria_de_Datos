@@ -23,3 +23,6 @@
 [Segundo Avance PIA](https://github.com/LagosJA/Mineria_de_Datos/blob/main/Avance_II_PIA_Equipo1.ipynb)
 
 [Técnicas de Minería](https://github.com/LagosJA/Mineria_de_Datos/blob/main/Ejercicios_Tecnicas_Equipo1.ipynb)
+
+## Fase 3
+[Notebook Final](https://github.com/LagosJA/Mineria_de_Datos/blob/main/Notebook_PIA_Equipo1.ipynb)
