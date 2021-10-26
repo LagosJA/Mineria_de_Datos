@@ -27,4 +27,4 @@
 ## Fase 3
 [Notebook Final](https://github.com/LagosJA/Mineria_de_Datos/blob/main/Notebook_PIA_Equipo1.ipynb)
 
-[Poster Pia](https://github.com/ReginaMb/Data_Mining/blob/main/Poster%20Equipo%201.pdf)
+[Poster PIA - Equipo 1](https://github.com/ReginaMb/Data_Mining/blob/main/Poster%20Equipo%201.pdf)
